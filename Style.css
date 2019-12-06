@@ -1,0 +1,249 @@
+@media (max-width: 575.98px) {
+    .word2{
+        font-size: 12px !important;
+    }
+    #pti{
+        margin-top: 30px !important;
+    }
+    #wwrd{
+        font-size: 30px !important;
+        margin-top: 30px !important;
+    }
+    .word3{
+        font-size: 12px !important;
+    }
+    #wrd3{
+        margin: 30px 0px !important;
+    }
+    .bibe{
+        font-size: 10px !important;
+        padding: 8px 25px !important;
+    }
+    #cia{
+        padding-top: 30px !important;
+    }
+    .rtf{
+        margin-left: 12px !important;
+    }
+    #tfr{
+        padding-top: 50px !important;
+    }
+    .sm4{
+        margin-top: 15px !important;
+    }
+    .disp{
+        display: flex !important;
+        flex-direction: column !important; 
+    }
+    #mel{
+        font-size: 15px !important;
+        padding: 10px 70px 10px 20px !important; 
+    }
+    .ipt{
+        font-size: 12px !important;
+    }
+    .tfu{
+        font-size: 20px !important;
+    }
+    .il, .ti{
+        font-size: 12px !important;
+    }
+    #asf{
+        font-size: 20px !important;
+    }
+}
+
+.bdy{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.56)), url(./Images/big-11.jpg);
+    background-size: cover;
+    /* background-color: rgba(0, 0, 0, 0.56) !important;
+    visibility: inherit !important; */
+    height: 100vh; 
+    /* opacity: 1 !important; */
+} 
+.myv{
+    background-color: transparent !important;
+    font-size: 13px !important;
+    font-weight: bolder !important;
+    font-family: helvetica !important;
+}
+a{
+    color: white !important;
+}
+li{
+    color: white !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.mya{
+    margin-left: 50px !important;
+    margin-top: 10px !important;
+    font-size: 25px !important;
+}
+.pit{
+    margin-top: 10em !important;
+    color: white !important;
+}
+.word1{
+    font-size: 100px !important;
+    font-family: cursive !important;
+    letter-spacing: 20px !important;
+}
+.word2{
+    letter-spacing: 5px !important;
+}
+.word3{
+    margin-top: 70px !important;
+    font-weight: bolder !important;
+    line-height: 30px !important;
+    font-family: serif !important;
+    margin-bottom: 70px !important;
+}
+.bibe{
+    padding: 12px 55px !important;
+    background-color: rgb(56, 56, 223) !important;
+    border: none !important;
+    font-weight: bolder !important;
+}
+.bibe:hover{
+    cursor: pointer !important;
+    background-color: blue !important;
+}
+.marT{
+    margin-top: 100px;
+}
+.word4{
+    font-weight: normal !important;
+    font-family: 'Josefin Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    color: #55565b !important;
+    font-size: 28px !important;
+    line-height: 1.1 !important;
+    font-weight: 500 !important;
+    letter-spacing: 3px !important;
+}
+.word5{
+    /* font-weight: normal !important; */
+    font-family: 'Josefin Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    color: #55565b !important;
+    font-size: 42px !important;
+    line-height: 1.1 !important;
+    font-weight: bolder !important;
+    letter-spacing: 3px !important;
+    margin-bottom: 15px !important;
+}
+.word6{
+    font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 17.008px !important;
+    color: #55565b !important;
+    font-style: italic !important;
+    letter-spacing: 1px !important;
+}
+.marTt{
+    margin-top: 50px !important;
+}
+.anc{
+    color: blue !important;
+}
+.ull{
+    padding-left: 0px !important;
+}
+.tile{
+    margin-bottom: 10px !important;
+    font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 12px !important;
+    line-height: 30px !important;
+}
+.ult{
+    margin-top: 20px !important;
+    padding: 0px !important;
+}
+.myb{
+    padding: 8px 70px !important;
+    border: 2.275px solid #c1c5cd !important;
+    border-radius: 0px !important;
+    color: #c1c5cd !important;
+    background-color: transparent !important;
+}
+.bdy2{
+    margin-bottom: 100px !important;
+}
+.seic{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.56)),url(./Images/big-12.jpg);
+    background-size: cover !important;
+    height: 60vh !important;
+    width: 100% !important;
+    background-attachment: fixed;
+
+}
+.aic{
+    /* margin-top: 12em !important; */
+    padding-top: 150px !important;
+    color: white !important;
+}
+.brt{
+    font-family: 'Josefin Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 28px !important;
+    letter-spacing: 1.7px !important;
+}
+.irt{
+    font-family: 'Josefin Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 42px !important;
+    font-weight: bolder !important;
+    letter-spacing: 1.7px !important;
+}
+.trt{
+    font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 17.008px !important;
+    letter-spacing: 1.7px !important;
+    font-style: italic !important;
+}
+.bll{
+    /* color: black !important; */
+    padding: 10px 50px !important;
+    /* background-color: #f8f8f8 !important; */
+    border-radius: 0px !important;
+    font-weight: bolder !important;
+}
+.bll:hover{
+    background-color: black !important;
+    color: white !important;
+    cursor: pointer !important;
+}
+.oti{
+    font-size: 12px !important;
+    font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    line-height: 2 !important;
+    word-spacing: 2px !important;
+}
+.ftr{
+    background: #212121 !important;
+    color: #7d7d7d !important;
+    margin-top: 100px !important;
+}
+.rtf{
+    padding: 100px 0px 16px !important;
+}
+.eml{
+    letter-spacing: 5px !important;
+    font-size: 18px !important;
+    background-color: transparent !important;
+    border: 2px solid rgb(71, 70, 70) !important;
+    padding: 10px 100px 10px 20px !important;
+}
+.ti, .il{
+    list-style-type: none !important;
+    color: #7d7d7d !important;
+    margin-top: 5px !important;
+}
+.uu{
+    padding: 0px !important;
+    margin-top: 20px !important;
+}
+.fas{
+    letter-spacing: 10px !important;
+    font-size: 25px !important;
+}
+.tpb{
+    margin-top: 30px !important;
+    margin-bottom: 100px !important;
+}
